@@ -104,3 +104,12 @@ venv.bak/
 .mypy_cache/
 
 .DS_Store
+4_Convolutional/data/cifar-10-batches-py/batches.meta
+4_Convolutional/data/cifar-10-batches-py/data_batch_1
+4_Convolutional/data/cifar-10-batches-py/data_batch_2
+4_Convolutional/data/cifar-10-batches-py/data_batch_4
+4_Convolutional/data/cifar-10-batches-py/data_batch_3
+4_Convolutional/data/cifar-10-batches-py/data_batch_5
+4_Convolutional/data/cifar-10-batches-py/readme.html
+4_Convolutional/data/cifar-10-batches-py/test_batch
+4_Convolutional/data/cifar-10-python.tar.gz
